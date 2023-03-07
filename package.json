@@ -1,0 +1,19 @@
+{
+  "name": "first-webserver",
+  "version": "1.0.0",
+  "description": "building first webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-Moh88CS.git"
+  },
+  "author": "Moh88CS",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-Moh88CS/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-Moh88CS#readme"
+}
