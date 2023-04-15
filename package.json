@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-Moh88CS/issues"
   },
-  "homepage": "https://github.com/comp426-2023-spring/a01-Moh88CS#readme"
+  "homepage": "https://github.com/comp426-2023-spring/a01-Moh88CS#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
